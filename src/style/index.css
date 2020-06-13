@@ -1,0 +1,8 @@
+body {
+    display: flex;
+}
+
+.active {
+    border-bottom: 1px solid lightgray;
+    color: black;
+}
